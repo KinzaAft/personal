@@ -1,0 +1,336 @@
+*{
+    font-family: cursive;
+}
+.img1{
+    background-image:url(Naran-Pakistan.jpg);
+    height: 500px ;
+    background-size: cover;
+   border: 2px black;
+
+}
+.navigation{
+    width: 100%; 
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #C9DABF;
+    padding: 10px;
+    top: 0;
+  
+    
+}
+
+/* .logo{
+    font-size: 35px;
+    color:  brown;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.2);
+    border-radius: 5px;
+    
+}  */
+.logo{
+    float: left;
+    font-size: 35px;
+    color: white;
+    margin-left: 40px;
+    margin-top: 3px;
+    text-align:left ;
+    align-items: center;
+    align-content: center;
+    font-family: fantasy;
+    text-shadow: 2px 2px 5px green;
+    transition: 2.0sec;
+
+}
+.mainheading{
+    color:white;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    padding: 10px ;
+    margin-top: 70px;
+    
+}
+.content{
+    padding: 20px;
+}
+.heading{
+  color:#FF9800;
+    text-align: center;
+    text-decoration: underline;
+    /* font-size: 28px; */
+    
+}
+.p1{
+    text-align: justify;
+    margin: 20px 0;
+    
+}
+ol{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+
+}
+.pic1{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: left 0;
+}
+.img{
+    box-shadow: 5px 5px 5px  black;
+    margin: left 0;
+    
+}
+.margin{
+    margin-left: 0;}
+  a{
+    text-decoration: none;
+    color: white;
+  }  
+a:hover{
+    color:#FF9800;
+} 
+.headinG{
+    color: black;
+    float: left;
+    display: block;
+    
+}
+.impheading{
+    color: #FF9800;
+    text-align: center;
+    height: 50PX;
+    text-align: center;
+}
+    
+
+.p1{
+    display: block;
+    color: black;
+    height: 40px;
+    
+}
+
+.img{
+    align-items: center;
+    align-content: center;
+    margin-left: 210px;
+}
+.heading2{
+    color: black;
+    /* font-size: 20px; */
+    float: center;
+    text-align: center;
+    display: block;
+  color: #0c004e;
+    width: fit-content;
+}
+.hji{
+    float:left ;
+    text-align: center;
+    color:black;
+    background-color: rgb(22, 184, 213);
+}
+.heading1{
+color: black;
+text-align: center;
+
+
+}
+.heading{
+    color: black;
+    /* background-color: rgb(82, 210, 125); */
+    box-sizing: cover
+    ;
+
+    
+}
+.point{
+  color: #0c004e;
+    margin: 20px 0;
+    padding: 20px;
+    text-align: center;
+}
+.naranpoint{
+    margin: 20px;
+    padding-left: 40px;
+    /* background-color: #c1ceba; */
+}
+b{
+    /* background-color: ; */
+    margin: 10px 0;
+    padding: 10px;
+   text-align: center;
+   height: fit-content;
+
+}
+.pic1{
+   color: #0c004e;
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+    padding: 10px
+}
+.p7{
+    /* background-color: #c1ceba; */
+    height: 50px;
+    
+}
+.pic2{
+    color: #0c004e;
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.p8{
+    /* background-color: #c1ceba; */
+    height: 50px;
+}
+.pic3{
+ color: #0c004e;
+ width: 200px;
+ text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.p9{
+    /* background-color: #c1ceba; */
+    height: 50px;
+}
+.pic4{
+color: #0c004e;
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.p10{
+    /* background-color: #c1ceba; */
+    height: 40px;
+}
+.pic5{
+   color: #0c004e;
+    width: 400px;
+    text-align: center;
+    margin: 1opx;
+    padding: 10px;
+}
+.p11{
+    /* background-color: #c1ceba; */
+    height: 50px;
+}
+.pic6{
+    color:#0c004e;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.p12{
+    /* background-color: #7f9671; */
+    
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+
+}
+.p13{
+    /* background-color: #c1ceba; */
+    height: 30px;
+
+}
+.heading1{
+    color:#0c004e;
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+.text1{
+color: #0c004e;
+    width: fit-content;
+
+}
+.p2{
+    /* background-color: #b9d6a7; */
+    width: fit-content;
+}
+.heading3{
+    color: #0c004e;
+    width: fit-content;
+}
+.p3{
+    /* background-color: #b9d6a7; */
+    width: fit-content;
+}
+.peak{
+    color: #0c004e;
+    width: fit-content;
+
+}
+.p4{
+    /* background-color: #cbf1b3; */
+    width: fit-content;
+}
+.HEADING4{
+    color:#0c004e;
+    width: fit-content;
+}
+.text2{
+    color: #0c004e;
+    width: fit-content;
+}
+.p5{
+    /* background-color: #b9d6a7; */
+    width: fit-content;
+}
+
+.pic7{
+    color: #0c004e;
+    align-items: center;
+}
+.shogran{
+    border: #6e9359;
+    border-radius: 2px solid black;
+}
+footer{
+    padding: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background : #0c004e;
+    color: #ccc;font-family: arial;
+    letter-spacing: 1px;
+}
+.footer1{
+    width: 700px;
+    font-size: 15px;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.kunhar{
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #C9DABF;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.heading1{
+    align-items: center;
+    margin: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
